@@ -11,6 +11,7 @@ Curated tvOS Directory. Much more to come!
 - [Introduction to TVMLKit](https://developer.apple.com/videos/play/techtalks-apple-tv/7/) 
 - [Developing tvOS Apps Using TVMLKit: Part 1](https://developer.apple.com/videos/play/wwdc2016/212/) [part 2](https://developer.apple.com/videos/play/wwdc2016/229/)
 - [Media Playback](https://developer.apple.com/videos/play/techtalks-apple-tv/6/)
+- [tvOS 10 Stuff](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewinTVOS/Articles/tvOS10.html)
 
 # Written 
 - [App Programming Guide for tvOS](https://developer.apple.com/library/tvos/documentation/General/Conceptual/AppleTV_PG/index.html#//apple_ref/doc/uid/TP40015241-CH12-SW1)
@@ -44,6 +45,7 @@ Curated tvOS Directory. Much more to come!
 - [tvOS Toast](https://github.com/movielala/TVOSToast)
 - [TVOSButton](https://github.com/movielala/TVOSButton)
 - [TVOSSlideViewController](https://github.com/movielala/TVOSSlideViewController)
+- [Mapkit tvOS](https://github.com/MacGeneration/MapKit-tvOS)
 
 # Stack Overflow Questions
 - [TVML vs Custom App for Apple TVOS](http://stackoverflow.com/questions/33544607/tvml-vs-custom-app-for-apple-tvos?lq=1)
