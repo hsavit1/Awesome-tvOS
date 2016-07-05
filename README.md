@@ -41,6 +41,9 @@ Curated tvOS Directory. Much more to come!
 - [Custom TVML Elements & Styles](https://github.com/shopgate/custom-tvml-elements)
 - [TVML Catalog: Using TVML Templates](https://developer.apple.com/library/tvos/samplecode/TVMLCatalog/Introduction/Intro.html#//apple_ref/doc/uid/TP40016505-Intro-DontLinkElementID_2)
 - [WWDC app for the new Apple TV](https://github.com/insidegui/WWDC-tvOS)
+- [tvOS Toast](https://github.com/movielala/TVOSToast)
+- [TVOSButton](https://github.com/movielala/TVOSButton)
+- [TVOSSlideViewController](https://github.com/movielala/TVOSSlideViewController)
 
 # Stack Overflow Questions
 - [TVML vs Custom App for Apple TVOS](http://stackoverflow.com/questions/33544607/tvml-vs-custom-app-for-apple-tvos?lq=1)
