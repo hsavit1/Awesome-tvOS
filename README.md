@@ -18,10 +18,12 @@ Curated tvOS Directory. Much more to come!
 - [Official Apple Human Interface Guideline](https://developer.apple.com/tvos/human-interface-guidelines/)
 - [Getting Started with Apple TV Human Interface Guidelines](https://medium.com/bpxl-craft/getting-started-with-apple-tv-human-interface-guidelines-4d991737ddec)
 - [tvOS SDK: An iOS Developer’s Initial Impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
-- [Erica Sadun on tvOS](http://ericasadun.com/2015/09/09/developing-for-apple-tv-first-thoughts/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_53)
+- [Erica Sadun on tvOS](http://ericasadun.com/2015/09/09/developing-for-apple-tv-first-thoughts/)
 - [Hacking TVML | Custom TVML Elements](https://medium.com/shopgate-mobile-commerce/hacking-tvml-4387e65a9b94#.ne3325uo8)
 - [Custom Elements in TVML](http://tape-tv.github.io/swift/2016/03/23/custom-elements-in-tvml.html)
 - [Developing a tvOS app - Weathervane](http://blog.strv.com/tvos-weathervane/)
+- [Saving Data in a tvOS App](http://www.learncoredata.com/saving-data-in-a-tvos-app/)
+- [200MB Max, No Storage, No Web Views: Is tvOS the Future of Apps?](https://realm.io/news/is-tvos-the-future-of-apps/)
 
 # Tutorials 
 - [Mastering the tvOS Focus Engine](http://nerds.airbnb.com/tvos-focus-engine/) 
