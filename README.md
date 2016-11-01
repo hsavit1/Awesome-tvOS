@@ -29,6 +29,7 @@ Curated tvOS Directory. Much more to come!
 - [Developing a tvOS app - Weathervane](http://blog.strv.com/tvos-weathervane/)
 - [Saving Data in a tvOS App](http://www.learncoredata.com/saving-data-in-a-tvos-app/)
 - [200MB Max, No Storage, No Web Views: Is tvOS the Future of Apps?](https://realm.io/news/is-tvos-the-future-of-apps/)
+- [Learning to “focus”: My experience learning tvOS as an iOS developer](https://trackchanges.postlight.com/apple-tv-md-7845afb73972#.ggzgh76qw)
 
 # Video
 - [Try Swift tvOS](https://realm.io/news/tryswift-boris-bugling-tvos/)
@@ -57,6 +58,9 @@ Curated tvOS Directory. Much more to come!
 - [Mapkit tvOS](https://github.com/MacGeneration/MapKit-tvOS)
 - [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) [gist](https://gist.github.com/nickv2002/b7bb28cdccc000bdb910)
 - [React Native Apple TV Example](https://github.com/7ynk3r/apple_tv_example)
+
+# Presentations 
+- [TVML Myths: or why you shouldn't write TVML off... yet](https://speakerdeck.com/sammyd/tvml-myths-or-why-you-shouldnt-write-tvml-off-dot-dot-dot-yet)
 
 # Stack Overflow Questions
 - [TVML vs Custom App for Apple TVOS](http://stackoverflow.com/questions/33544607/tvml-vs-custom-app-for-apple-tvos?lq=1)
